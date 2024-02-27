@@ -1,0 +1,13 @@
+ rno{
+    font-family: gigi;
+    color: red;
+    font-size: 25;
+ }
+
+name{
+        border-style: dotted;
+        border-color: blue;
+}
+per{
+    background-color: pink;
+}
