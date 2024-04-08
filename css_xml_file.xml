@@ -1,0 +1,18 @@
+<?xml-stylesheet type="text/css" href="university.css" version="1.0"?>
+<university>
+<univ>
+ <uname>SPPU university</uname>
+ <city>pune</city>
+ <rank>1st</rank>
+</univ>
+<univ>
+ <uname>nashik university</uname>
+ <city>nashik</city>
+ <rank>2nd</rank>
+</univ>
+<univ>
+ <uname>SAMBHAJINAGAR university</uname>
+ <city>SAMBHAJINAGAR</city>
+ <rank>3rd</rank>
+</univ>
+</university>

@@ -1,0 +1,23 @@
+<student>
+<stud id="1">
+ <course>BCA</course>
+ <rno>101</rno>
+ <sname>om</sname>
+ <address>shrirampur</address>
+ <college>CDJ</college>
+ </stud>
+<stud id="2">
+ <course>BCS</course>
+ <rno>102</rno>
+ <sname>sai</sname>
+ <address>shrirampur</address>
+ <college>RBNB</college>
+ </stud>
+<stud id="3">
+ <course>BCA</course>
+ <rno>103</rno>
+ <sname>ram</sname>
+ <address>pune</address>
+ <college>dypatil</college>
+ </stud>
+ </student>
